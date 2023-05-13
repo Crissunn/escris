@@ -98,9 +98,7 @@
 .button.button-youtube {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover{
-  color: #000000;
-}
+.button.button-youtube:hover,
 .button.button-youtube:hover:before {
     content: 'Este es mi canal de Youtube';
     white-space: initial; 
@@ -117,15 +115,13 @@
 .button.button-mail:hover:before {
     content: 'Haciendo click aquí, puedes enviarme un correo.';
     white-space: initial; 
-
+    color: #000000;}
 
 /* Ko-Fi */
 .button.button-kofi {
   color: #FFFFFF;
   background-color: #ff5500 }
-.button.button-kofi:hover{
-  color: #000000;
-}
+.button.button-kofi:hover,
 .button.button-kofi:hover:before {
     content: 'Si gustas puedes invitarme un cafe.';
     white-space: initial; 
@@ -135,9 +131,7 @@
 .button.button-linkedin {
   color: #FFFFFF;
   background-color: #0b72c7 }
-.button.button-linkedin:hover{
-  color: #000000;
-}
+.button.button-linkedin:hover,
 .button.button-linkedin:hover:before {
     content: 'Este es mi Linkedin.';
     white-space: initial; 
@@ -147,10 +141,10 @@
 .button.button-github {
   color: #FFFFFF;
   background-color: #3a3a3a }
-.button.button-github:hover{
-  color: #000000;
-}
+.button.button-github:hover,
 .button.button-github:hover:before {
     content: 'Acá  puedes encontrar mis repositorios.';
     white-space: initial;
     color: #000000; }
+
+
