@@ -123,8 +123,8 @@
 .button.button-linkedin {
   color: #FFFFFF;
   background-color: #0b72c7 }
-.button.button-kofi:hover,
-.button.button-kofi:hover:before {
+.button.button-linkedin:hover,
+.button.button-linkedin:hover:before {
     content: 'Este es mi Linkedin.';
     white-space: initial; }
 
@@ -132,7 +132,7 @@
 .button.button-github {
   color: #FFFFFF;
   background-color: #3a3a3a }
-.button.button-kofi:hover,
-.button.button-kofi:hover:before {
+.button.button-github:hover,
+.button.button-github:hover:before {
     content: 'Acá  puedes encontrar mis repositorios.';
     white-space: initial; }
