@@ -109,9 +109,7 @@
 .button.button-mail {
   color: #000000;
   background-color: #E8F3EC }
-.button.button-mail:hover{
-  color: #000000;
-}
+.button.button-mail:hover,
 .button.button-mail:hover:before {
     content: 'Haciendo click aquí, puedes enviarme un correo.';
     white-space: initial; 
