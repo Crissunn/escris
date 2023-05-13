@@ -119,4 +119,20 @@
     content: 'Si gustas puedes invitarme un cafe.';
     white-space: initial; }
 
+/* Linkedin */
+.button.button-linkedin {
+  color: #FFFFFF;
+  background-color: #0b72c7 }
+.button.button-kofi:hover,
+.button.button-kofi:hover:before {
+    content: 'Este es mi Linkedin.';
+    white-space: initial; }
 
+    /* GitHub */
+.button.button-github {
+  color: #FFFFFF;
+  background-color: #3a3a3a }
+.button.button-kofi:hover,
+.button.button-kofi:hover:before {
+    content: 'Acá  puedes encontrar mis repositorios.';
+    white-space: initial; }
